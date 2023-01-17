@@ -1,6 +1,6 @@
 ## Summary
 
-This repository contains a set of different examples of Terraform configuratiion files for automating Cisco ACI that were used during the **Automating Cisco ACI using Terraform** webinar delivered in EMEAR.
+This repository contains a set of different examples of Terraform configuratiion files for automating Cisco ACI that were used during the **Automating Cisco ACI using Terraform** webinar delivered in APJC.
 
 ## Backend and Credentials
 
